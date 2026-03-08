@@ -1,24 +1,43 @@
-# Nandana Goswami
+# <p align="center">Nandana Goswami</p>
 
-<p align="left">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=200&section=header&text=Full%20Stack%20Developer&fontSize=50&animation=fadeIn&fontAlignY=35" alt="Header Banner" />
+</p>
+
+<p align="center">
   <a href="https://portfolio-nandanag.netlify.app">
-    <img src="https://img.shields.io/badge/View%20Portfolio-0ea5e9?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/LIVE_PORTFOLIO-0ea5e9?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
-Full Stack Developer focused on building efficient, scalable applications. I specialize in turning complex logic into clean, user-friendly solutions.
+---
 
-### 🛠 Technical Expertise
-* **Languages:** C++, Python, JavaScript, SQL, Java, C.
-* **Frontend:** React, Three.js, Tailwind CSS, HTML/CSS.
-* **Backend & DB:** FastAPI, Flask, PostgreSQL, Firebase.
-* **Tools:** Git, GitHub, Containerization.
+### 🚀 About Me
+I am a Full Stack Developer focused on building efficient, scalable applications. I specialize in turning complex logic into clean, user-friendly solutions.
 
-### 🚀 Featured Projects
-* **AI Legal Assistant:** Natural language legal document search and Q&A using Python and FAISS.
-* **AI Text-to-SQL App:** Converts natural language questions into SQL queries for seamless database interaction.
+### 🛠 Tech Stack (Moving)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,cpp,js,react,threejs,tailwind,postgres,fastapi,flask,docker,git,firebase" alt="My Skills" />
+</p>
 
+### 📂 Featured Projects
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **AI Legal Assistant** | Natural language legal document search and Q&A | `Python` `FAISS` `FastAPI` |
+| **AI Text-to-SQL** | Natural language questions to SQL queries | `Python` `SQL` `Flask` |
+
+### 📊 Activity Pulse
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="Streak" />
+</p>
 
 ---
-### Contact
-[LinkedIn](Your-LinkedIn-Link) | [Email](mailto:your-email@example.com)
+<p align="center">
+  <a href="Your-LinkedIn-Link"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
