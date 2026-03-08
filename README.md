@@ -32,12 +32,12 @@ I am a Full Stack Developer focused on building efficient, scalable applications
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NANDANAG0SWAMI&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NANDANAG0SWAMI&theme=tokyonight&hide_border=true" alt="Streak" />
 </p>
 
 ---
 <p align="center">
-  <a href="Your-LinkedIn-Link"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/nandana-goswami-794840322/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:nandanagoswami958@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
