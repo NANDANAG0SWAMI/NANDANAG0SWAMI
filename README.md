@@ -18,9 +18,6 @@ Full Stack Developer focused on building efficient, scalable applications. I spe
 * **AI Legal Assistant:** Natural language legal document search and Q&A using Python and FAISS.
 * **AI Text-to-SQL App:** Converts natural language questions into SQL queries for seamless database interaction.
 
-### 📈 GitHub Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true)
 
 ---
 ### Contact
