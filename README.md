@@ -20,7 +20,6 @@ Full Stack Developer focused on building efficient, scalable applications. I spe
 
 ### 📈 GitHub Stats
 ![Nandana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true)
 
 ---
 ### Contact
