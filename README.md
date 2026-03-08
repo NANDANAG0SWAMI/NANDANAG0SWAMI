@@ -28,7 +28,7 @@ I am a Full Stack Developer focused on building efficient, scalable applications
 
 ### 📊 Activity Pulse
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NANDANAG0SWAMI&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
 </p>
 
 <p align="center">
