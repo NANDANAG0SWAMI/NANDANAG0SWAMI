@@ -1,18 +1,27 @@
 # Nandana Goswami
 
-Full Stack Developer focused on building efficient, scalable applications and intelligent tools. I specialize in turning complex logic into clean, user-friendly solutions.
+<p align="left">
+  <a href="https://portfolio-nandanag.netlify.app">
+    <img src="https://img.shields.io/badge/View%20Portfolio-0ea5e9?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
 
-### Current Projects
-* **Portfolio:** [portfolio-nandanag.netlify.app](https://portfolio-nandanag.netlify.app)
-* **AI Legal Assistant:** A tool for natural language legal document search and Q&A using Python and FAISS.
-* **AI Text-to-SQL App:** A tool that converts natural language questions into SQL queries for database interaction.
+Full Stack Developer focused on building efficient, scalable applications. I specialize in turning complex logic into clean, user-friendly solutions.
 
-### Technical Skills
+### 🛠 Technical Expertise
 * **Languages:** C++, Python, JavaScript, SQL, Java, C.
 * **Frontend:** React, Three.js, Tailwind CSS, HTML/CSS.
 * **Backend & DB:** FastAPI, Flask, PostgreSQL, Firebase.
 * **Tools:** Git, GitHub, Containerization.
 
+### 🚀 Featured Projects
+* **AI Legal Assistant:** Natural language legal document search and Q&A using Python and FAISS.
+* **AI Text-to-SQL App:** Converts natural language questions into SQL queries for seamless database interaction.
+
+### 📈 GitHub Stats
+![Nandana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true)
+
+---
 ### Contact
-* **LinkedIn:** [Your LinkedIn Link]
-* **Email:** [Your Email]
+[LinkedIn](Your-LinkedIn-Link) | [Email](mailto:your-email@example.com)
